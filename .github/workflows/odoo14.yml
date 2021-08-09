@@ -35,4 +35,4 @@ jobs:
           pip install pyyaml
       - name: run api testcase
         run: |
-              robot "Automated test framework"\TestSuites\API-tests\API-TestSuites\demo.robot
+              robot Automated_test_framework\TestSuites\API-tests\API-TestSuites\demo.robot
