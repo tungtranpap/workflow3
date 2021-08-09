@@ -29,7 +29,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-                pip3 install -r "Automated_test_framework"/requirements.txt
+                pip3 install -r "Automated test framework"/requirements.txt
                 pip install --upgrade robotframework-requests
       - name: run api testcase
         run: |
