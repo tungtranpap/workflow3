@@ -30,6 +30,7 @@ jobs:
       - name: Install dependencies
         run: |
                 pip3 install -r Automated_test_framework/requirements.txt
+                pip install --upgrade robotframework-requests
       - name: run api testcase
         run: |
               robot Automated_test_framework/TestSuites/API-tests/API-TestSuites/demo.robot
