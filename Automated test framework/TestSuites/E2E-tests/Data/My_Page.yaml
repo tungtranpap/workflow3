@@ -1,0 +1,5 @@
+LOGIN:
+    URL_PAGE: https://much-gmbh-framework-viet-testing-staging-1-2974590.dev.odoo.com/web/login
+    BROWSER: Chrome
+    USERNAME: viet.pham@muchconsulting.de
+    PASSWORD: 1qazxsw2

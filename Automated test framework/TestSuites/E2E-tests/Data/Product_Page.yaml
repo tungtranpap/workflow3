@@ -1,0 +1,48 @@
+TESTCASE1:
+  PRODUCT:
+    product_name: TEST PRODUCT A
+    pro_type: Storable Product
+    pro_category: All
+    s_price: 1
+    costs: 0
+    int_ref: ''
+    barcode: ''
+    int_note: Test internal note
+    wei: 0
+    vol: 0
+    cus_lead_time: 0
+    des_for_delivery_order: ''
+    des_for_receipts: ''
+
+TESTCASE2:
+  PRODUCT:
+    product_name: TEST PRODUCT B
+    pro_type: Storable Product
+    pro_category: All
+    s_price: 1
+    costs: 0
+    int_ref: ''
+    barcode: ''
+    int_note: Test internal note
+    wei: 0
+    vol: 0
+    cus_lead_time: 0
+    des_for_delivery_order: ''
+    des_for_receipts: ''
+    new_qty: '10.00'
+
+TESTCASE8:
+  PRODUCT:
+    product_name: TEST PRODUCT C
+    pro_type: Storable Product
+    pro_category: All
+    s_price: 1
+    costs: 0
+    int_ref: ''
+    barcode: ''
+    int_note: Test internal note
+    wei: 0
+    vol: 0
+    cus_lead_time: 0
+    des_for_delivery_order: ''
+    des_for_receipts: ''

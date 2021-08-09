@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+    chrome:
+        image: vietmuch/rf-docker
+        shm_size: "1g"
+        environment:
+            BROWSER: chrome
+            ROBOT_OPTIONS: -x outputxunit.xml --suite API-TestSuites 
+        user: root
+        volumes: [
+           ".:/opt/robotframework/tests:Z",
+           "./Report:/opt/robotframework/reports:Z"
+        ]

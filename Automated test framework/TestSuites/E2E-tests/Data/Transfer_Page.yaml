@@ -1,0 +1,8 @@
+TRANSFERS:
+  CONTACT: vietmuch
+  OPERATION_TYPE: 'San Francisco: Receipts'
+  PRODUCT: TST
+  DEMAND: 1
+  SHIPPING_POL: As soon as possible
+  RESPONSIBLE: vietmuch
+  NOTE: Test internal note on transfers
